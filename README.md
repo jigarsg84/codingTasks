@@ -35,7 +35,7 @@ This project focuses on managing student registrations and processing data.
 ### Description:
 This project features a holiday cost calculator program using user-defined functions.
 
-### Files Included:
+### Files to be Included:
 | File                           | Description                                       |
 |--------------------------------|---------------------------------------------------|
 | holiday_cost_calculator.py     | Holiday Cost Calculator Program                   |
